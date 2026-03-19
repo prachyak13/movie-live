@@ -24,7 +24,7 @@ https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
 https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/HBO
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
-https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/true%20film1
+https://github.com/prachyak13/server195/raw/refs/heads/main/hbosignature
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
 https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/HBO%20Hits
@@ -33,10 +33,10 @@ https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/HBO%20Hi
 https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/AXN
 
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/6944ffddcdc3ede2f865de3c_ROCK%20ENT%20thumbnail.png",ROCK Entertainment
-https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/ROCK%20Entertainment
+https://github.com/prachyak13/server195/raw/refs/heads/main/rockentertainment
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/15/f3c87ce0-3b4c-11ee-9a2b-95fa44b28696_webp_original.webp",Rock Action
-https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/Rock%20Action
+https://github.com/prachyak13/server195/raw/refs/heads/main/rockaction
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",Warner TV
 https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/Warner%20TV
@@ -47,3 +47,33 @@ https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/true%20f
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.png",true film2
 https://raw.githubusercontent.com/prachyak13/movie-live/refs/heads/main/true%20film2
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/2016_Discovery_logo.svg",Discovery
+https://github.com/prachyak13/server195/raw/refs/heads/main/discovery
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",History Channel
+https://github.com/prachyak13/server195/raw/refs/heads/main/history
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Cv7ihDp9Wg8TLwGB70khTm06geHvv1XoWEl3awvB-cQFP1IVFCmeH_rnujwPZOaeNejobO76KQ=s900-c-k-c0x00ffffff-no-rj",Mono29 Music
+https://github.com/prachyak13/server195/raw/refs/heads/main/mono29music
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qd8ky1tRCj-OO8_uUMqQUuhV_UrdiL_5C8NRQFgsFSGLNmXne98_ohKxt1kMaeZ1_3s7ShVO=s900-c-k-c0x00ffffff-no-rj",Rush Channel
+https://github.com/prachyak13/server195/raw/refs/heads/main/rush
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/03/15/58ad8ef6-52ef-4609-a55b-9a18e8e89eec.png",True4U
+https://github.com/prachyak13/server195/raw/refs/heads/main/true4u
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Asian More
+https://github.com/prachyak13/server195/raw/refs/heads/main/trueasianmore
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.png",True Film 2
+https://github.com/prachyak13/server195/raw/refs/heads/main/truefilm2
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",True Film Asia
+https://github.com/prachyak13/server195/raw/refs/heads/main/truefilmasia
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/45345d10-e599-11ed-86b8-bb40638e3c49_webp_original.png",True Movie Hits
+https://github.com/prachyak13/server195/raw/refs/heads/main/truemoviehits
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/488c61b0-e599-11ed-94a2-8feec94a4a3b_webp_original.png",True Explore Sci
+https://github.com/prachyak13/server195/raw/refs/heads/main/truescience
